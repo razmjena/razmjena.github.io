@@ -10,7 +10,12 @@ Popis svih grupa poredan po abecedi možete pronaći na lijevoj strani, odnosno 
 
 ## Dopuna podataka
 
-Za unos nove grupe na Razmjenu, [otvorite novi predmet na repozitoriju Razmjene na GitHubu](https://github.com/razmjena/razmjena/issues) korištenjem gumba `New issue`. U idućem koraku kao tip predmeta odaberite **Unos nove grupe** korištenjem odgovarajućeg gumba `Get started`. Kao ogledni primjer za popunjavanje možete uzeti [Grupu za aplikacije i usluge na eksaskalarnoj istraživačkoj infrastrukturi](gaseri.md) koja je autor Razmjene.
+Postoje dvije mogućnosti za unos nove grupe na Razmjenu:
+
+- [Otvorite novi predmet](https://github.com/razmjena/razmjena/issues) na repozitoriju Razmjene na GitHubu korištenjem gumba `New issue`. U idućem koraku kao tip predmeta odaberite **Unos nove grupe** korištenjem odgovarajućeg gumba `Get started`. Popunite tražene podatke i pošaljite ih korištenjem gumba `Submit new issue`.
+- Preuzmite [prazan predložak](https://raw.githubusercontent.com/razmjena/razmjena/main/.github/ISSUE_TEMPLATE/novi-unos.md) i popunite ga korištenjem uređivača Markdowna [Zettlr](https://www.zettlr.com/) ili nekog drugog uređivača teksta. Popunjeni dokument pošaljite e-mailom u privitku na adresu `info@razmjena.org`. Na istu adresu možete se javiti s dodatnim pitanjima, ako ih imate.
+
+Kao ogledni primjer za popunjavanje možete uzeti [Grupu za aplikacije i usluge na eksaskalarnoj istraživačkoj infrastrukturi](gaseri.md) koja je autor Razmjene.
 
 Za uređivanje postojeće grupe možete koristiti "olovčicu" u gornjem desnom uglu sadržaja stranice.
 
