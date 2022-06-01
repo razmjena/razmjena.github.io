@@ -1,10 +1,12 @@
 ---
 tags:
   - računalna kemija
-  - superračunala
+  - računarstvo visokih performansi
 ---
 
 # Grupa za aplikacije i usluge na eksaskalarnoj istraživačkoj infrastrukturi
+
+**Grupa za aplikacije i usluge na eksaskalarnoj istraživačkoj infrastrukturi** (engl. *Group for Applications and Services on Exascale Research Infrastructure*, kraće GASERI) je istraživačka, razvojna i nastavna jedinica na [Fakultet informatike i digitalnih tehnologija](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/).
 
 Glavni interes grupe je primjena eksaskalarnog računarstva za rješavanje problema u računalnoj biokemiji. Cilj je dizajnirati algoritme boljih performansi i ponuditi njihove implementacije za akademsku i industrijsku upotrebu.
 
@@ -18,20 +20,21 @@ Glavni interes grupe je primjena eksaskalarnog računarstva za rješavanje probl
 
 ## Nudimo
 
-- virtualni visokoprotočni probir malih molekula (engl. *high-throughput virtual screening of small molecules*, HTVS)
-- simulacija molekulske dinamike (engl. *molecular dynamics simulation*, MD)
-- implementacija značajki unutar GROMACS-a (engl. *GROMACS development*)
-- razvoj algoritama simulacije molekulske dinamike (engl. *development of algorithms for molecular dynamics simulation*)
-- automatizacija tijeka rada analize molekula (engl. *molecular analysis workflow automation*)
+- Virtualni visokoprotočni probir malih molekula (engl. *High-throughput virtual screening of small molecules*, HTVS),
+- Simulacija molekulske dinamike (engl. *Molecular dynamics simulation*, MD),
+- Implementacija značajki unutar GROMACS-a (engl. *GROMACS development*),
+- Razvoj algoritama simulacije molekulske dinamike (engl. *Development of algorithms for molecular dynamics simulation*),
+- Automatizacija tijeka rada analize molekula (engl. *Molecular analysis workflow automation*).
 
 ## Tražimo
 
-- atomističke simulacije biomolekularnih sustava korištenjem metoda kvantne kemije (engl. *atomistic simulations of biomolecular systems using quantum chemistry methods*)
-- *in vitro* testiranje aktivnosti malih molekula (engl. *in vitro testing of small molecule activity*)
+- Atomističke simulacije biomolekularnih sustava korištenjem metoda kvantne kemije (engl. *Atomistic simulations of biomolecular systems using quantum chemistry methods*),
+- *In vitro* testiranje aktivnosti malih molekula (engl. *In vitro testing of small molecule activity*).
 
 ## Kontakt
 
-- [doc. dr. sc. Vedran Miletić, voditelj grupe](https://vedran.miletic.net/)
+- [doc. dr. sc. Vedran Miletić](https://vedran.miletic.net/), voditelj grupe
+- [Službeno web sjedište (na engleskom jeziku)](https://gaseri.org/en/)
 - [GitHub](https://github.com/gaseri)
 - [GitLab](https://gitlab.com/gaseri)
 - [LinkedIn](https://www.linkedin.com/company/gaseri)
