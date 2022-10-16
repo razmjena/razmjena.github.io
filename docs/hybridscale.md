@@ -17,9 +17,9 @@ Cilj grupe je razvoj novih te unaprjeđenje postojećih računalnih metoda i alg
 
 ## Odabrani radovi
 
-- Alonso-Jordá, Pedro; Davidović, Davor; Sapunar, Marin; Herrero, José R.; Quintana-Ortí, Enrique S. [Efficient update of determinants for many-electron wave function overlaps](https://www.bib.irb.hr/1098260), Computer physics communications, 258 (2021), 107521, 14 [doi:10.1016/j.cpc.2020.107521](https://doi.org/10.1016/j.cpc.2020.107521)
-- Sapunar, Marin; Piteša, Tomislav; Davidović, Davor; Došlić, Nađa [Highly Efficient Algorithms for CIS Type Excited State Wave Function Overlaps](https://www.bib.irb.hr/1004215), Journal of chemical theory and computation, 15 (2019), 6; 3461-3469 [doi:10.1021/acs.jctc.9b00235](https://doi.org/10.1021/acs.jctc.9b00235)
-- Aliaga, José I.; Alonso, Pedro; Badía, José M.; Chacón, Pablo; Davidović, Davor; López-Blanco, José R.; Quintana-Ortí, Enrique S. [Fast Band--Krylov Eigensolver for Macromolecular Functional Motion Simulation on Multicore Architectures and Graphics Processors](https://www.bib.irb.hr/793409), Journal of computational physics, 309 (2016), 314-323 [doi:10.1016/j.jcp.2016.01.007](https://doi.org/10.1016/j.jcp.2016.01.007)
+- Alonso-Jordá, Pedro; Davidović, Davor; Sapunar, Marin; Herrero, José R.; Quintana-Ortí, Enrique S. [Efficient update of determinants for many-electron wave function overlaps](https://www.bib.irb.hr/1098260), *Computer physics communications*, **258** (2021), 107521, 14 [doi:10.1016/j.cpc.2020.107521](https://doi.org/10.1016/j.cpc.2020.107521)
+- Sapunar, Marin; Piteša, Tomislav; Davidović, Davor; Došlić, Nađa [Highly Efficient Algorithms for CIS Type Excited State Wave Function Overlaps](https://www.bib.irb.hr/1004215), *Journal of chemical theory and computation*, **15** (2019), 6; 3461-3469 [doi:10.1021/acs.jctc.9b00235](https://doi.org/10.1021/acs.jctc.9b00235)
+- Aliaga, José I.; Alonso, Pedro; Badía, José M.; Chacón, Pablo; Davidović, Davor; López-Blanco, José R.; Quintana-Ortí, Enrique S. [Fast Band--Krylov Eigensolver for Macromolecular Functional Motion Simulation on Multicore Architectures and Graphics Processors](https://www.bib.irb.hr/793409), *Journal of computational physics*, **309** (2016), 314-323 [doi:10.1016/j.jcp.2016.01.007](https://doi.org/10.1016/j.jcp.2016.01.007)
 
 ## Nudimo
 
