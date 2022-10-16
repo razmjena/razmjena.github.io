@@ -6,7 +6,7 @@ tags:
 
 # Grupa za skalabilno i heterogeno računarstvo visokih performansi
 
-**Grupa za skalabilno i heterogeno računarstvo visokih performansi** (HybridScale) istraživačka je grupa nastala u sklopu uspostavnog projekta HRZZ-a *Skalabilni algoritmi visokih performansi za buduće heterogene distribuirane računalne sustave* ([HybridScale](https://pdb.irb.hr/project/irb:007326)) i dio je [Centra za informatiku i računarstvo](https://cir.com.hr/) na [Institutu Ruđer Bošković](https://www.irb.hr).
+**Grupa za skalabilno i heterogeno računarstvo visokih performansi** (engl. *Group for Scalable and Heterogeneous High-Performance Computing*, kraće HybridScale) istraživačka je grupa nastala u sklopu uspostavnog projekta HRZZ-a *Skalabilni algoritmi visokih performansi za buduće heterogene distribuirane računalne sustave* ([HybridScale](https://pdb.irb.hr/project/irb:007326)) i dio je [Centra za informatiku i računarstvo](https://cir.com.hr/) na [Institutu Ruđer Bošković](https://www.irb.hr).
 
 Cilj grupe je razvoj novih te unaprjeđenje postojećih računalnih metoda i algoritama linearne algebre s ciljem bržeg i učinkovitijeg izvršavanja na velikim heterogenim računalnim arhitekturama (superračunalima, hibridnim CPU-GPU računalnima). Glavni pravi istraživanja grupe su:
 
