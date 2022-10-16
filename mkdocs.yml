@@ -1,6 +1,7 @@
 site_name: Razmjena
 site_description: Razmjena je interaktivna baza podataka znanstvenih grupa koje djeluju na istraživačkim i visokoškolskim ustanovama u Hrvatskoj.
 site_author: Vedran Miletić
+site_url: https://razmjena.org/
 copyright: Autorska prava &copy; <a href="https://gaseri.org/hr/">Grupa za aplikacije i usluge na eksaskalarnoj istraživačkoj infrastrukturi</a> 2022. Sva prava pridržana.
 repo_url: https://github.com/razmjena/razmjena/
 edit_uri: blob/main/docs/
