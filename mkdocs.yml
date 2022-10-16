@@ -9,5 +9,6 @@ theme:
   name: material
 plugins:
   - search
+  - social
   - tags:
       tags_file: index.md
