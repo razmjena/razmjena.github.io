@@ -36,4 +36,4 @@ Cilj grupe je razvoj novih te unaprjeđenje postojećih računalnih metoda i alg
 ## Kontakt
 
 - [dr. sc. Davor Davidović](https://www.irb.hr/Zajednicke-jedinice-za-znanstvenu-potporu/Centar-za-informatiku-i-racunarstvo/Zaposlenici/Davor-Davidovic), voditelj grupe
-- [Službeno web sjedište (na engleskom)](https://www.irb.hr/hybridscale)
+- [Službeno web sjedište (na engleskom jeziku)](https://www.irb.hr/hybridscale)
