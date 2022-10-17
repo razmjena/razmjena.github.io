@@ -21,6 +21,6 @@ Kao ogledni primjer za popunjavanje možete uzeti [Grupu za aplikacije i usluge 
 
 Za uređivanje postojeće grupe možete koristiti "olovčicu" u gornjem desnom uglu sadržaja stranice.
 
-## Kategorije
+## Popis grupa po kategorijama
 
 [TAGS]
