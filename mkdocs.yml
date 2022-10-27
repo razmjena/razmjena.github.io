@@ -8,6 +8,7 @@ edit_uri: blob/main/docs/
 
 theme:
   name: material
+  language: hr
 extra:
   analytics:
     provider: google
