@@ -16,15 +16,15 @@ Glavni dio znanstvenog rada **Grupe za fiziku površina i materijala** (engl. *G
 
 ## Nudimo
 
-- određivanje elementnog sastava materijala (engl. *elemental analysis of materials*)
-- analiza kemijskih veza na površinama materijala (engl. *chemical bond analysis on material surfaces*)
-- implantacija materijala niskoenergetskim ionima (engl. *low-energy ion implantation*)
+- Određivanje elementnog sastava materijala (engl. *Elemental analysis of materials*)
+- Analiza kemijskih veza na površinama materijala (engl. *Chemical bond analysis on material surfaces*)
+- Implantacija materijala niskoenergetskim ionima (engl. *Low-energy ion implantation*)
 
 ## Tražimo
 
-- određivanje kristalografske strukture materijala (engl. *crystalographic structure determination of materials*)
-- mjerenje optičke apsorpcije materijala u UV-Vis području (engl. *optical absorption measurement in UV-Vis range*)
-- izračun energetske strukture čvrstih materijala (engl. *energy structure computation of solid materials*)
+- Određivanje kristalografske strukture materijala (engl. *Crystalographic structure determination of materials*)
+- Mjerenje optičke apsorpcije materijala u UV-Vis području (engl. *Optical absorption measurement in UV-Vis range*)
+- Izračun energetske strukture čvrstih materijala (engl. *Energy structure computation of solid materials*)
 
 ## Kontakt
 
