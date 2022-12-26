@@ -1,7 +1,7 @@
 ---
 tags:
-  - fizika površina
-  - fizika materijala
+  - Fizika površina
+  - Fizika materijala
 ---
 
 # Grupa za fiziku površina i materijala

@@ -1,7 +1,7 @@
 ---
 tags:
-  - računarstvo visokih performansi
-  - hibridno računarstvo
+  - Računarstvo visokih performansi
+  - Hibridno računarstvo
 ---
 
 # Grupa za skalabilno i heterogeno računarstvo visokih performansi

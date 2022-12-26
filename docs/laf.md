@@ -1,7 +1,7 @@
 ---
 tags:
-  - fizika elementarnih čestica
-  - astrofizika
+  - Fizika elementarnih čestica
+  - Astrofizika
 ---
 
 # Laboratorij za astročestičnu fiziku

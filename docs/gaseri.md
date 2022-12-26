@@ -1,7 +1,7 @@
 ---
 tags:
-  - računalna kemija
-  - računarstvo visokih performansi
+  - Računalna kemija
+  - Računarstvo visokih performansi
 ---
 
 # Grupa za aplikacije i usluge na eksaskalarnoj istraživačkoj infrastrukturi
