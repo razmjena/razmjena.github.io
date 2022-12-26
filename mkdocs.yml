@@ -6,6 +6,11 @@ copyright: Autorska prava &copy; <a href="https://gaseri.org/hr/">Grupa za aplik
 repo_url: https://github.com/razmjena/razmjena/
 edit_uri: blob/main/docs/
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 theme:
   name: material
   language: hr

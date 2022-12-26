@@ -8,6 +8,9 @@ Tri su osnovna načina korištenja Razmjene:
 - Popis svih grupa poredan po abecedi možete pronaći na lijevoj strani. U slučaju da se stranica prikazuje na mobilnom uređaju, popis možete otvoriti korištenjem gumba "hamburger" u gornjem lijevom uglu naslovne trake stranice.
 - Popis svih grupa po kategorijama možete pronaći u nastavku.
 
+!!! note
+    Želite li urediti podatke o grupi ili unijeti nove? Upute su dopunu podataka u bazi se nalaze [niže na stranici](#dopuna-podataka-u-bazi).
+
 [TAGS]
 
 ## Dopuna podataka u bazi
