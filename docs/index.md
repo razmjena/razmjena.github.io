@@ -5,7 +5,7 @@
 Tri su osnovna načina korištenja Razmjene:
 
 - Pretragu grupa po kategorijama i vještinama možete vršiti putem funkcije `Pretraživanje` u desnom dijelu naslovne trake stranice.
-- Popis svih grupa poredan po abecedi možete pronaći na lijevoj strani. U slučaju da se stranica prikazuje na mobilnom uređaju, popis možete otvoriti korištenjem gumba "hamburger" u gornjem lijevom uglu naslovne trake stranice.
+- Popis svih grupa poredan po abecedi možete pronaći na lijevoj strani. U slučaju da se stranica prikazuje na mobilnom uređaju, popis možete otvoriti korištenjem gumba "hamburger" (:material-menu:) u gornjem lijevom uglu naslovne trake stranice.
 - Popis svih grupa po kategorijama možete pronaći u nastavku.
 
 !!! note
@@ -28,4 +28,4 @@ U oba slučaja u obrascu popunjavate samo tekst naveden unutar uglatih zagrada. 
 
 ### Uređivanje podataka o postojećoj grupi
 
-Za uređivanje podataka o postojećoj grupi možete koristiti "olovčicu" u gornjem desnom uglu sadržaja stranice.
+Za uređivanje podataka o postojećoj grupi možete koristiti "olovčicu" (:material-pencil:) u gornjem desnom uglu sadržaja stranice.
