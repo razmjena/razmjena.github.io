@@ -18,6 +18,10 @@ markdown_extensions:
 theme:
   name: material
   language: hr
+  features:
+    - content.action.edit
+  icon:
+    edit: material/pencil
 extra:
   analytics:
     provider: google
