@@ -1,8 +1,14 @@
 site_name: Razmjena
-site_description: Razmjena je interaktivna baza podataka znanstvenih grupa koje djeluju na istraživačkim i visokoškolskim ustanovama u Hrvatskoj.
+site_description: >-
+  Razmjena je interaktivna baza podataka znanstvenih grupa koje djeluju na
+  istraživačkim i visokoškolskim ustanovama u Hrvatskoj.
 site_author: Vedran Miletić
 site_url: https://razmjena.github.io/
-copyright: Autorska prava &copy; <a href="https://gaseri.org/hr/">Grupa za aplikacije i usluge na eksaskalarnoj istraživačkoj infrastrukturi</a> 2022 – 2023. Sva prava pridržana. <a href="#__consent">Promjena postavki kolačića</a>.
+copyright: >-
+  Autorska prava &copy; <a href="https://gaseri.org/hr/">Grupa za aplikacije i usluge na eksaskalarnoj istraživačkoj infrastrukturi</a> 2022 – 2024.
+  Sva prava pridržana. Za postavljanje sjedišta se koristi
+  <a href="https://group.miletic.net/en/blog/2022-11-01-publishing-material-for-mkdocs-website-to-github-pages-using-custom-actions-workflow/">GitHub Actions tok rada koji su izradili GASERI</a>.
+  <a href="#__consent">Promjena postavki kolačića</a>.
 repo_url: https://github.com/razmjena/razmjena.github.io/
 edit_uri: edit/main/docs/
 
@@ -28,7 +34,11 @@ extra:
     property: G-WGBKHXW2YF
   consent:
     title: Cookie consent
-    description: Koristimo kolačiće za prepoznavanje vaših ponovnih posjeta, pohranu vaših preferencija i mjerenje učinkovitosti našeg web sjedišta. Svojim pristankom nam pomažete poboljšati naše web sjedište kako bi na njemu budući posjetitelji lakše pronašli ono što žele.
+    description: >-
+      Koristimo kolačiće za prepoznavanje vaših ponovnih posjeta, pohranu
+      vaših preferencija i mjerenje učinkovitosti našeg web sjedišta. Svojim
+      pristankom nam pomažete poboljšati naše web sjedište kako bi na njemu
+      budući posjetitelji lakše pronašli ono što žele.
 plugins:
   - search
   - social
