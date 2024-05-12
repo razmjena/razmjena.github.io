@@ -33,7 +33,7 @@ Glavni interes grupe je primjena eksaskalarnog računarstva za rješavanje probl
 
 ## Kontakt
 
-- [doc. dr. sc. Vedran Miletić](https://vedran.miletic.net/), voditelj grupe
+- doc. dr. sc. [Vedran](https://vedran.miletic.net/) [Miletić](https://www.miletic.net/), voditelj grupe
 - [Službeno web sjedište (na engleskom jeziku)](https://gaseri.org/en/)
 - [GitHub](https://github.com/gaseri)
 - [GitLab](https://gitlab.com/gaseri)
