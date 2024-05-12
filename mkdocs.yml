@@ -6,9 +6,7 @@ site_author: Vedran Miletić
 site_url: https://razmjena.github.io/
 copyright: >-
   Autorska prava &copy; <a href="https://gaseri.org/hr/">Grupa za aplikacije i usluge na eksaskalarnoj istraživačkoj infrastrukturi</a> 2022 – 2024.
-  Sva prava pridržana. Za postavljanje sjedišta se koristi
-  <a href="https://group.miletic.net/en/blog/2022-11-01-publishing-material-for-mkdocs-website-to-github-pages-using-custom-actions-workflow/">GitHub Actions tok rada koji su izradili GASERI</a>.
-  <a href="#__consent">Promjena postavki kolačića</a>.
+  Sva prava pridržana. <a href="#__consent">Promjena postavki kolačića</a>.
 repo_url: https://github.com/razmjena/razmjena.github.io/
 edit_uri: edit/main/docs/
 
@@ -24,6 +22,7 @@ markdown_extensions:
 theme:
   name: material
   language: hr
+  custom_dir: overrides
   features:
     - content.action.edit
   icon:
